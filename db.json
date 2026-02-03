@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": "389d",
+      "name": "memmed",
+      "city": "baku",
+      "status": 0
+    },
+    {
+      "name": "",
+      "city": "",
+      "id": "90c5"
+    },
+    {
+      "id": "f8f8",
+      "name": "Anar",
+      "city": "baku"
+    },
+    {
+      "id": "c262",
+      "name": "dfb",
+      "city": "xdvdfv"
+    },
+    {
+      "id": "4470",
+      "name": "Aysel",
+      "city": "gence"
+    },
+    {
+      "id": "445c",
+      "name": "Aysel",
+      "city": "nese"
+    },
+    {
+      "id": "7847",
+      "name": "gulnsr",
+      "city": "celilabad"
+    },
+    {
+      "id": "9bc4",
+      "name": "Memmed",
+      "city": "samaxi"
+    }
+  ]
+}
